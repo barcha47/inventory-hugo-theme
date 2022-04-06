@@ -9,7 +9,7 @@
 # --- base website settings ---
 
 baseURL: https://unicef.github.io/inventory-hugo-theme/
-title: UNICEF Inventory Theme
+title: barcha47
 theme: inventory
 languageCode: en-us
 enableEmoji: true
